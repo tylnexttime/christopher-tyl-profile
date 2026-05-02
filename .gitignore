@@ -1,0 +1,18 @@
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Local Claude Preview config (server definition only — not for the repo)
+.claude/
+
+# Python build / cache (in case of future tooling)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
