@@ -1,6 +1,6 @@
 # christopher-tyl-profile
 
-Source for **[christophertyl.com](https://christophertyl.com)** *(domain pending)* — a typographic single-page profile and résumé for Christopher Tyl.
+Source for a typographic single-page profile and résumé for Christopher Tyl.
 
 Same visual hand as **[crystallisationgap.com](https://crystallisationgap.com)** (the publishing portal for *The Crystallisation Gap* trilogy): Georgia serif body, monospace headings, gold + warm-grey on white, particle-canvas mesh in the background.
 
