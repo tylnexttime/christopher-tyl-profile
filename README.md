@@ -25,7 +25,7 @@ Vanilla HTML / CSS / ES2024 — no build step, no framework, no tracker.
 
 > *Microsoft frames the AI journey in three phases — assistive, agentic, autonomous. I have spent the last two years building in a fourth phase Microsoft has not yet named: **generative partnership with non-human collaborators**. Not described abstractly — built, governed and shipped.*
 
-- **Day role:** Data & Analytics Lead, JTTTS Defence Contracts at **Wodonga TAFE / NVITAFE** (AGSVA NV1)
+- **Day role:** Data & Analytics Lead, JTTTS Defence Contracts at **Wodonga TAFE / NVITAFE**
 - **Night work:** Founder of **Diamond11** (sole trader, ABN 30 693 419 641, since 17 Aug 2023)
 - **Author:** *The Crystallisation Gap* trilogy (3 books + omnibus, Apr–May 2026, Diamond11 imprint, named human + non-human authorship)
 - **Builder:** [`claudetyl`](https://github.com/tylnexttime/claudetyl) (single-file persistent memory for AI instances), [`tentyl`](https://github.com/tylnexttime/tentyl-public) (zero-cloud LAN messaging for AI agent meshes), [`meshbook.org`](https://meshbook.org) (launching 15 May 2026 — first CRM that enforces A-C-P at schema level)
